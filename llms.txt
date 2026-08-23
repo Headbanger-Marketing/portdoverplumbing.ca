@@ -1,2 +1,25 @@
 # Port Dover Plumbing
-HVAC services in Ontario.
+
+> Port Dover Plumbing is a local HVAC company serving Port Dover, Norfolk, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 583-0742  |  Email: contact@portdoverplumbing.ca  |  Website: https://portdoverplumbing.ca
+
+## Key pages
+
+- [Home](https://portdoverplumbing.ca/): Port Dover Plumbing homepage with service overview and FAQ
+- [About](https://portdoverplumbing.ca/about/): About the company and service area
+- [Contact](https://portdoverplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://portdoverplumbing.ca/services/water-heaters/): Water Heaters in Port Dover, Ontario
+- [Drain Cleaning](https://portdoverplumbing.ca/services/drain-cleaning/): Drain Cleaning in Port Dover, Ontario
+- [Repiping](https://portdoverplumbing.ca/services/repiping/): Repiping in Port Dover, Ontario
+- [Fixtures & Toilets](https://portdoverplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Port Dover, Ontario
+- [Leak Detection & Repair](https://portdoverplumbing.ca/services/leak-detection/): Leak Detection & Repair in Port Dover, Ontario
+- [Sump Pumps & Backwater](https://portdoverplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Port Dover, Ontario
+- [Water Softeners & Filtration](https://portdoverplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Port Dover, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Port Dover are answered on the homepage.
